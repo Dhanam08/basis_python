@@ -1,6 +1,6 @@
 import random
 print("Guessing the number GAME")
-print("**************************")
+print("=============================")
 game_on=None
 guesses = None
 secret= None
